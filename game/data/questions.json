@@ -1,0 +1,67 @@
+[
+    {
+        "question": "Quais elementos quimicos descobertos por Marie Curie ?",
+        "options": [
+            {
+                "option": "Polônio e rádio",
+                "isCorrect": true
+            },
+            {
+                "option": "Índio e polônio",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Quais áreas Hypatia de Alexandria se demonstrou relevante ?",
+        "options": [
+            {
+                "option": "mapeamento e movimentação dos astros",
+                "isCorrect": true
+            },
+            {
+                "option": "ética",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Quantos dias Valentina Tereshkova orbitou o planeta terra ?",
+        "options": [
+            {
+                "option": "3",
+                "isCorrect": true
+            },
+            {
+                "option": "2",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Qual livro que é referência em sua área publicado por Florence Sabin ?",
+        "options": [
+            {
+                "option": "Atlas da Medula e mesencéfalo",
+                "isCorrect": true
+            },
+            {
+                "option": "Atlas da Medula e bulbo raquidiano",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": "Qual maior contribuição de Ada Lovelace ?",
+        "options": [
+            {
+                "option": "Desenvolvimento do primeiro algoritmo",
+                "isCorrect": true
+            },
+            {
+                "option": "Construção da máquina analítica",
+                "isCorrect": false
+            }
+        ]
+    }
+]

@@ -1,0 +1,27 @@
+{
+    "information": [
+        {
+            "name": "Marie Curie",
+            "description": "Seus estudos foram de enorme importância para a ciência, pois constatou a existência do polônio e do rádio, elementos químicos que contribuíram para a criação de tratamentos médicos como a radioterapia."
+        },
+        {
+            "name": "Hypatia de Alexandria",
+            "description": "Considera-se Hypatia a mais antiga matemática do mundo. Nascida em Alexandria, no Egito, provavelmente entre 351 e 370 d.C, Hypatia foi uma mulher extremamente inteligente que se dedicou à filosofia, astronomia e matemática.\nInfelizmente sua obra foi perdida, assim como de outros estudiosos do período, mas sua relevância está no mapeamento e movimentação dos astros."
+        },
+        {
+            "name": "Valentina Tereshkova",
+            "description": "A russa Valentina Tereshkova foi a primeira mulher a realizar sozinha uma viagem ao espaço. O feito ocorreu em 16 de junho de 1963 e ela permaneceu por 3 dias em uma cápsula orbitando o planeta Terra." 
+        },
+        {
+            "name": "Florence Sabin",
+            "description": "Florence Sabin nasceu nos EUA em 9 de novembro de 1871. Sua atuação foi na medicina, onde fez investigações e descobertas importantes na área da anatomia, sistema linfático e sanguíneo.\nFormou-se médica em 1900 e no ano seguinte publicou Um Atlas da Medula e Mesencéfalo, livro que se tornou referência para a medicina."
+        },
+        {
+            "name": "Ada Lovelace",
+            "description": "Ada Lovelace nasceu em 1815 na Inglaterra e dedicou sua vida à matemática e à escrita.\nSeu maior feito foi ter desenvolvido o primeiro algorítimo. Por isso, ela é considerada a primeira programadora da história."
+        }
+    ]
+}
+
+
+
