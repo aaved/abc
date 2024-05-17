@@ -1,11 +1,5 @@
 # Project
 
-https://labs.phaser.io/view.html?src=src/input\keyboard\enter%20name.js
-
-https://blog.ourcade.co/posts/2020/phaser-3-player-select-choose-character/
-
-https://labs.phaser.io/view.html?src=src/audio\HTML5%20Audio\play%20audio%20file.js
-
 ## Assets Resource
 * Dungeon 
 * Grass
